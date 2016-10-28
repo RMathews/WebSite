@@ -1,0 +1,9 @@
+.resume {
+    margin: 0px 0px 20px 0px;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+.resume.space-m {
+    margin: 35px;
+}
